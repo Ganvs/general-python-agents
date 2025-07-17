@@ -1,2 +1,12 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Technology professional with over 9 years of experience, with a background ranging from technical support in corporate systems to web development and process automation, always focused on efficiency and scalability.
+
+Currently making a strategic transition into Cloud/DevOps, deepening my knowledge in technologies like AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, and Python, aiming to build robust, scalable, and automated environments.
+
+Throughout my career, I’ve worked extensively on process automation, using n8n and Python to create smart integrations between APIs and internal systems, streamlining operations and increasing team productivity. In web projects, I’ve led migrations from WordPress to React/Next.js, with a strong focus on performance, SEO, and user experience.
+
+My skill set combines product vision, software engineering, and DevOps culture. I aim to align technical solutions with business goals through analytical thinking, creativity, and a results-driven mindset.
+
+📌 Tech Stack: AWS, Docker, Kubernetes, Terraform, Linux, Git, CI/CD, Python, n8n, React, Next.js
+📌 Soft Skills: Proactiveness, adaptability, teamwork, logical thinking, delivery focus, and clear communication
+
+I’m open to new connections and opportunities in Cloud Engineering or DevOps, where I can contribute to secure, agile, and automated environments.
